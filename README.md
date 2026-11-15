@@ -3,7 +3,7 @@
 One page with everything about a fitness blogger: social networks, personal training, advertising
 prices and reviews. Reviews are collected and moderated through a Telegram bot.
 
-**Live:** https://diwial.vercel.app
+**Live:** https://kyrylo157.github.io/diwial/
 
 <p>
   <img src="docs/desktop.png" width="640" alt="diwial desktop">
@@ -30,6 +30,6 @@ prices and reviews. Reviews are collected and moderated through a Telegram bot.
 
 ## Stack
 
-HTML, CSS, JavaScript, Vercel, Cloudflare Workers, Cloudflare KV, Telegram Bot API
+HTML, CSS, JavaScript, GitHub Pages, Cloudflare Workers, Cloudflare KV, Telegram Bot API
 
-> Source code is private. Want a site like this for your business? Message me.
+> This repository holds only the compiled build that GitHub Pages serves. Source code is private. Want a site like this for your business? Message me.
